@@ -37,7 +37,7 @@ packaging==24.1
 pandas==2.2.2
 pefile==2023.2.7
 pillow==10.3.0
-protobuf==5.29.2
+protobuf==5.29.5
 pyarrow==18.1.0
 pydeck==0.9.1
 pyenchant==3.2.2
